@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/GAO-S12/git-begins.git
 git push -u origin main
 git pull origin 
+git checkout main / add-create-branch-command
